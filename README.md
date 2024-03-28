@@ -9,7 +9,7 @@
 <br>
 
 <!-- About Me -->
-<h2 align="center">A passionate Web Developer ! <br><br></h2>
+<h3 align="center">A passionate Web Developer ! <br><br></h3>
 
 <br><br><br><br>
 
@@ -80,6 +80,7 @@
 </div>
 
 <br><br><br>
+<h1><br><br><br></h1>
 
 <!-- Contributions Section -->
 <div align="center">
