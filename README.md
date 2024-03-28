@@ -6,8 +6,6 @@
         <br><br>
 </div>
 
-<br>
-
 <!-- About Me -->
 <h3 align="center">A passionate Web Developer !</h3>
 
@@ -16,7 +14,7 @@
 <!-- Contact and Portfolio Links -->
 <img align="right" alt="coding" width="400" src="https://files.codingninjas.in/laptop-coffee-17904.svg">
 
-- 🌱 I’m currently learning ** React js , Experss Js **
+- 🌱 I’m currently learning ** Experss Js, Node JS, MongoDB **
 
 - 💬 Ask me about ** React, Javascript, MongoDB **
 
@@ -27,13 +25,13 @@
 <br>
 
 <div align="left">
-    <a href="mailto:pedro.sales.muniz@gmail.com">
+    <a href="mailto:sreedev07@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <a href="https://www.linkedin.com/in/sreedev-v-021a6827b" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://salesp07.github.io" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
     </a>
 </div>
