@@ -1,15 +1,26 @@
 <!-- Header -->
 <h1 align="center">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif">
-
-    
-<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Sreedev+V!;">
+        <img src="https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/ZulfiqarG">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Sreedev+V+!;">
 </h1>
 
 <!-- About Me -->
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <!-- Contact and Portfolio Links -->
+<img align="right" alt="coding" width="400" src="https://files.codingninjas.in/laptop-coffee-17904.svg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfiqarg&label=Profile%20views&color=0e75b6&style=flat" alt="zulfiqarg" /> </p>
+<p align="left"> <a href="https://twitter.com/ZulfiqarSk66" target="blank"><img src="https://img.shields.io/twitter/follow/ZulfiqarSk66?logo=twitter&style=for-the-badge" alt="praveen52" /></a> </p>
+
+- 🌱 I’m currently learning **React js , Experss Js**
+
+- 💬 Ask me about **react, javascript, mongodb**
+
+- 📫 How to reach me **zulfiqarshaikhofficial92@gmail.com**
+  
+- ⚡ Fun fact **I think i am a designer**
+
 <div align="center">
     <a href="mailto:pedro.sales.muniz@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -83,21 +94,22 @@
     <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/ZulfiqarG)
-<h1 align="center">Hi 👋, I'm Zulfiqar Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://files.codingninjas.in/laptop-coffee-17904.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfiqarg&label=Profile%20views&color=0e75b6&style=flat" alt="zulfiqarg" /> </p>
-<p align="left"> <a href="https://twitter.com/ZulfiqarSk66" target="blank"><img src="https://img.shields.io/twitter/follow/ZulfiqarSk66?logo=twitter&style=for-the-badge" alt="praveen52" /></a> </p>
 
-- 🌱 I’m currently learning **React js , Experss Js**
 
-- 💬 Ask me about **react, javascript, mongodb**
 
-- 📫 How to reach me **zulfiqarshaikhofficial92@gmail.com**
-  
-- ⚡ Fun fact **I think i am a designer**
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
