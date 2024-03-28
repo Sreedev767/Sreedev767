@@ -9,7 +9,7 @@
 <br>
 
 <!-- About Me -->
-<h3 align="center">A passionate Web Developer !</h3>
+<h2 align="center">A passionate Web Developer !</h3>
 
 <br><br><br><br>
 
@@ -42,7 +42,7 @@
 
 <!-- Skills and Tools -->
 <div align="center">
-        <h3 align="center">Languages and Tools</h3>
+        <h2 align="center">Languages and Tools</h3>
         <br>
 <p align="center">
     <div>
