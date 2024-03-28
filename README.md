@@ -12,8 +12,10 @@
 <!-- Contact and Portfolio Links -->
 <img align="right" alt="coding" width="400" src="https://files.codingninjas.in/laptop-coffee-17904.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfiqarg&label=Profile%20views&color=0e75b6&style=flat" alt="zulfiqarg" /> </p>
-<p align="left"> <a href="https://twitter.com/ZulfiqarSk66" target="blank"><img src="https://img.shields.io/twitter/follow/ZulfiqarSk66?logo=twitter&style=for-the-badge" alt="praveen52" /></a> </p>
+
+
+
+
 
 - 🌱 I’m currently learning **React js , Experss Js**
 
