@@ -42,7 +42,7 @@
 
 <!-- Skills and Tools -->
 <div align="center">
-        <br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br>
         <h3 align="center">Languages and Tools</h3>
         <br>
 <p align="center">
