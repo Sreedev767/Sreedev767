@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=#4B0A8B&lines=Hi+There!;I'm+Sreedev+V!;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Sreedev+V!;">
 </h1>
 
 <!-- About Me -->
