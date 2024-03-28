@@ -9,7 +9,7 @@
 <br>
 
 <!-- About Me -->
-<h3 align="center">A passionate Web Developer ! <br><br></h3>
+<h3 align="center">A passionate Web Developer !</h3>
 
 <br><br><br><br>
 
@@ -42,7 +42,8 @@
 
 <!-- Skills and Tools -->
 <div align="center">
-        <h2 align="center">Languages and Tools<br><br></h2>
+        <br><br>
+        <h2 align="center">Languages and Tools</h2>
         <br>
 <p align="center">
     <div>
@@ -79,7 +80,6 @@
     </div>
 </div>
 
-<br><br><br>
 <h1><br><br><br></h1>
 
 <!-- Contributions Section -->
@@ -88,7 +88,7 @@
     <br/><br/><br/>
 </div>
 
-<br><br><br>
+<br><br>
 
 <!-- Support Section -->
 <div align="center">
