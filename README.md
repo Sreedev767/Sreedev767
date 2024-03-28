@@ -38,7 +38,7 @@
     </a>
 </div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <!-- Skills and Tools -->
 <div align="center">
