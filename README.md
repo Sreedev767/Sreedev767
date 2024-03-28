@@ -43,7 +43,7 @@
 <!-- Skills and Tools -->
 <div align="center">
         <br><br>
-        <h2 align="center">Languages and Tools</h2>
+        <h3 align="center">Languages and Tools</h3>
         <br>
 <p align="center">
     <div>
@@ -80,10 +80,11 @@
     </div>
 </div>
 
-<h1><br><br><br></h1>
+<h1><br><br></h1>
 
 <!-- Contributions Section -->
 <div align="center">
+        <br><br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
