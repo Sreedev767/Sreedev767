@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-        <img src="https://netosena.ie/static/media/hero-animated.8eee97b7126ef266409b.gif">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif">
 
     
 <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Sreedev+V!;">
