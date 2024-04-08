@@ -2,7 +2,6 @@
 
 
 <div align="center">
-        <img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
         <br><br>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Borel&size=45&center=true&vCenter=true&width=450&height=80&duration=3000&color=%236621D4&lines=hello;I'm+Sreedev+!;">
         <br><br>
@@ -39,6 +38,12 @@
 </div>
 
 <br><br><br>
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com)
+
+
+
 
 <!-- Skills and Tools -->
 <div align="center">
@@ -83,10 +88,9 @@
 <h1><br><br></h1>
 
 <!-- Contributions Section -->
-<div align="center">
-        <br><br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    <br/><br/><br/>
-</div>
+
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i> - Aaron Swartz (2013 ~ 1986) - </i></p>
+
 
 <br><br>
