@@ -4,12 +4,12 @@
 <div align="center">
         <img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Borel&size=35&center=true&vCenter=true&width=450&height=60&duration=3000&color=%236621D4&lines=hello;I'm+Sreedev+!;">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Borel&size=45&center=true&vCenter=true&width=450&height=80&duration=3000&color=%236621D4&lines=hello;I'm+Sreedev+!;">
         <br><br>
 </div>
 
 <!-- About Me -->
-<h3 align="center">A passionate Web Developer !</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <br><br><br><br>
 
