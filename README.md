@@ -1,6 +1,8 @@
 <!-- Contact and Portfolio Links -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=40&duration=2400&pause=300&color=F7F7F7&vCenter=true&random=false&width=800&height=90&lines=hello;I'm+dev;+sreedev)](https://git.io/typing-svg)
+<br><br>
+
 
 <div>
         
@@ -10,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=I+am+passionate+about+collaborating+on+impactful+projects+and+exchanging+insights+on+React+.)](https://git.io/typing-svg)
 
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Reach+out+via+email+or+LinkedIn.)](https://git.io/typing-svg)
 
@@ -23,7 +25,7 @@
 
 </div>
 <br><br>
-<br>
+<br><br>
 
 <!-- Skills and Tools -->
 <div align="left">
