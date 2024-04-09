@@ -4,18 +4,17 @@
 
 <div>
         
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=100&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=A+proficient+MERN+stack+developer+specializing+in+React.js+frontend+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=100&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=A+proficient+MERN+stack+developer+specializing+in+React.js+frontend+development.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Crafting+intuitive+UIs+with+React.js%2C+integrating+RESTful+APIs%2C+and+UI%2FUX+best+practices.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Crafting+intuitive+UIs+with+React.js%2C+integrating+RESTful+APIs%2C+and+UI%2FUX+best+practices.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=I+am+passionate+about+collaborating+on+impactful+projects+and+exchanging+insights+on+React+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=I+am+passionate+about+collaborating+on+impactful+projects+and+exchanging+insights+on+React+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Reach+out+via+email+or+LinkedIn.)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=15&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Reach+out+via+email+or+LinkedIn.)](https://git.io/typing-svg)
 
 </div>
-<br><br><br>
-
-
 <div align="left">
         
 ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F)
@@ -23,7 +22,9 @@
 ![Static Badge](https://img.shields.io/badge/Portfolio-%230A66C2?logo=piapro)
 
 </div>
-<br><br><br>
+<br><br>
+<br>
+
 <!-- Skills and Tools -->
 <div align="left">
         
