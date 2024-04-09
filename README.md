@@ -1,96 +1,61 @@
-<!-- Header -->
-
-
-<div align="center">
-        <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Borel&size=45&center=true&vCenter=true&width=450&height=80&duration=3000&color=%236621D4&lines=hello;I'm+Sreedev+!;">
-        <br><br>
-</div>
-
-<!-- About Me -->
-<h3 align="center">A passionate Web Developer</h3>
-
-<br><br><br><br>
-
 <!-- Contact and Portfolio Links -->
-<img align="right" alt="coding" width="400" src="https://files.codingninjas.in/laptop-coffee-17904.svg">
 
-- 🌱 I’m currently learning ** Experss Js, Node JS, MongoDB **
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=40&duration=2400&pause=300&color=F7F7F7&vCenter=true&random=false&width=800&height=90&lines=hello;I'm+dev;+sreedev)](https://git.io/typing-svg)
 
-- 💬 Ask me about ** React, Javascript, MongoDB **
+<div>
+        
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=100&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=A+proficient+MERN+stack+developer+specializing+in+React.js+frontend+development.)](https://git.io/typing-svg)
 
-- 📫 How to reach me ** sreedev767@gmail.com **
-  
-- ⚡ Fun fact ** I think i am a designer **
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Crafting+intuitive+UIs+with+React.js%2C+integrating+RESTful+APIs%2C+and+UI%2FUX+best+practices.)](https://git.io/typing-svg)
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=I+am+passionate+about+collaborating+on+impactful+projects+and+exchanging+insights+on+React+.)](https://git.io/typing-svg)
 
-<div align="left">
-    <a href="mailto:sreedev07@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/sreedev-v-021a6827b" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-    </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=Reach+out+via+email+or+LinkedIn.)](https://git.io/typing-svg)
+
 </div>
-
 <br><br><br>
 
+
+<div align="left">
+        
 ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsreedev-v-021a6827b%2F)
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com)
+![Static Badge](https://img.shields.io/badge/Portfolio-%230A66C2?logo=piapro)
 
-
-
-
-<!-- Skills and Tools -->
-<div align="center">
-        <br><br><br><br><br><br>
-        <h3 align="center">Languages and Tools</h3>
-        <br>
-<p align="center">
-    <div>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" align="center"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"width="60" height="60"/> </a>
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer"width="60" height="60"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-    </div>
-    <div>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> </p>
-    </div>
 </div>
+<br><br><br>
+<!-- Skills and Tools -->
+<div align="left">
+        
+![Static Badge](https://img.shields.io/badge/React-%230D1117?style=flat&logo=react)
+![Static Badge](https://img.shields.io/badge/Javascript-%230D1117?logo=javascript) 
+![Static Badge](https://img.shields.io/badge/Material%20Ui-%230D1117?style=flat&logo=mui)
+![Static Badge](https://img.shields.io/badge/HTML5-%230D1117?style=flat&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-%230D1117?style=flat&logo=css3&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%230D1117?style=flat&logo=bootstrap)
+![Static Badge](https://img.shields.io/badge/sass-%230D1117?style=flat&logo=sass)
+![Static Badge](https://img.shields.io/badge/Tailwind%20css-%230D1117?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Node.JS-%230D1117?style=flat&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/Express.JS-%230D1117?style=flat&logo=express)
+![Static Badge](https://img.shields.io/badge/Mongo%20DB-%230D1117?style=flat&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/Git-%230D1117?style=flat&logo=git)
+![Static Badge](https://img.shields.io/badge/Github-%230D1117?style=flat&logo=github)
+![Static Badge](https://img.shields.io/badge/vercel-%230D1117?style=flat&logo=vercel)
+![Static Badge](https://img.shields.io/badge/Netlify-%230D1117?style=flat&logo=netlify)
+![Static Badge](https://img.shields.io/badge/Shields.io-%230D1117?style=flat&logo=Shields.io)
 
+</div>
 <h1><br><br></h1>
 
 <!-- Contributions Section -->
 
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i> - Aaron Swartz (2013 ~ 1986) - </i></p>
+<div align="center">
+        
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=18&duration=1400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=%E2%80%9CBe+curious.+Read+widely.+Try+new+things.+What+people+call+intelligence+just+boils+down+to+curiosity.%E2%80%9D)](https://git.io/typing-svg)
+        
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=12&duration=1400&pause=300&color=F7F7F7&vCenter=true&repeat=false&random=false&width=800&height=25&lines=-+Aaron+Swartz+(2013+~+1986)+-)](https://git.io/typing-svg)
+
+</div>
 
 
 <br><br>
