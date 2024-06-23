@@ -1,6 +1,6 @@
 <!-- Contact and Portfolio Links -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=40&duration=2400&pause=300&color=F7F7F7&vCenter=true&random=false&width=800&height=90&lines=hello;I'm+dev;+sreedev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Manrope&weight=300&size=40&duration=2400&pause=300&color=F7F7F7&vCenter=true&random=false&width=800&height=90&lines=hello;I'm+dev;+sreedev)](https://github.com/Sreedev767)
 <br><br>
 
 
